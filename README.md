@@ -1,1 +1,1 @@
-# s50w.github.com
+# s50w.github.io
