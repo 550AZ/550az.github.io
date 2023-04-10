@@ -83,16 +83,68 @@ t.end_fill()
 
 # 移动画笔
 t.penup()
-t.goto(150, 200)
+t.goto(100, 300)
+t.pendown()
+
+# 画“2”
+t.color("black")
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+
+# 移动画笔
+t.penup()
+t.goto(160, 300)
+t.pendown()
+
+# 画“0”
+t.color("black")
+t.forward(50)
+t.right(90)
+t.forward(100)
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(100)
+
+# 移动画笔
+t.penup()
+t.goto(220, 300)
+t.pendown()
+
+# 画“2”
+t.color("black")
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+
+# 移动画笔
+t.penup()
+t.goto(280, 300)
 t.pendown()
 
 # 画“1”
 t.color("black")
+t.right(90)
 t.forward(100)
 
 #移动画笔
 t.penup()
-t.goto(170, 250)
+t.goto(340, 250)
 t.pendown()
 
 # 画“8”
