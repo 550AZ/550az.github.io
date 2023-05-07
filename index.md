@@ -13,5 +13,8 @@
 ## Mathmatics
 [Pythagorean Triple 勾股数](./Mathmatics/PythagoreanTriple.md)
 
+## Video
+[Oscars](./Video/Oscar.md)
+
 ## Windows
 [Mouse Settings](./Windows/Mouse.md)
