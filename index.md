@@ -13,6 +13,9 @@
 ## Mathmatics
 [Pythagorean Triple 勾股数](./Mathmatics/PythagoreanTriple.md)
 
+## Office
+[Meeting Notes Best Practice](./Office/MeetingNotesBestPractice.md)
+
 ## Video
 [Oscars](./Video/Oscar.md)
 
