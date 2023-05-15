@@ -1,5 +1,5 @@
 
-# 引入画笔模型
+# 引入画笔库
 import turtle
 
 # 创建画笔
@@ -74,8 +74,86 @@ t.goto(-30,-125)
 t.goto(-85,-85)
 t.end_fill()
 
-# 隐藏画笔
-turtle.hideturtle()
+# 移动画笔
+t.penup()
+t.goto(0, -200)
+t.pendown()
+t.left(90)
 
-# 保持窗口
-turtle.done()
+# 画“2”
+t.color("black")
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+
+# 移动画笔
+t.penup()
+t.goto(60, -200)
+t.pendown()
+
+# 画“0”
+t.color("black")
+t.forward(50)
+t.right(90)
+t.forward(100)
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(100)
+
+# 移动画笔
+t.penup()
+t.goto(120, -200)
+t.pendown()
+
+# 画“2”
+t.color("black")
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(50)
+t.right(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+t.left(90)
+t.forward(50)
+
+# 移动画笔
+t.penup()
+t.goto(180, -200)
+t.pendown()
+
+# 画“1”
+t.color("black")
+t.right(90)
+t.forward(100)
+
+#移动画笔
+t.penup()
+t.goto(240, -250)
+t.pendown()
+
+# 画“8”
+for i in range(2):
+  t.forward(50)
+  t.right(90)
+  t.forward(50)
+  t.right(90)
+
+for i in range(2):
+  t.forward(-50)
+  t.right(-90)
+  t.forward(-50)
+  t.right(-90)
+
+t.hideturtle()  # 隐藏画笔
+turtle.done()   # 释放画笔
+
