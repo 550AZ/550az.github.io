@@ -24,3 +24,5 @@
 
 ## Windows
 [Mouse Settings](./Windows/Mouse.md)
+
+[Edge Browser](./Windows/EdgeBrowser.md)
