@@ -1,11 +1,7 @@
 # MacBook Apps
 
 ## MacBook Management
-* [Rectangle](https://rectangleapp.com/) | [GitHub](https://github.com/rxhanson/Rectangle)
-
-  Window manager for macOS
-
-
+* [Rectangle - Window manager for macOS](https://rectangleapp.com/) - [GitHub](https://github.com/rxhanson/Rectangle)
 
 ## Multimedia
 
