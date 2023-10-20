@@ -1,5 +1,11 @@
 # Index
 
+## Blog
+
+### 2023
+
+* [Mobile OS](./Blog/MobileOS.md)
+
 ## Computer
 [Byte Table](./Computer/ByteTable.md)
 
