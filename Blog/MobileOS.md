@@ -3,7 +3,7 @@
 
 
 ```mermaid
-flowchart TB
+graph TB
 	Unix(Unix) --> Linux(LinuxKernel)
 	
 	Unix --> Apple(Apple)
