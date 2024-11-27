@@ -18,6 +18,18 @@ More details in [在 Mac 上管理 App 窗口](https://support.apple.com/zh-cn/g
 
 [如果你忘记了 iPhone 密码 - 官方 Apple 支持 (中国)](https://support.apple.com/zh-cn/HT204306)
 
+### 多张图片组成PDF文件
+
+1. 在"访达"中选择多张图片
+2. Command+下箭头打开“预览”app
+3. Command+P 进入打印窗口
+4. 选择 PDF 下拉菜单
+5. 选择“存储为PDF”
+
+![](img/访达.打印.PDF.png)
+
+
+
 ## Reference
 [在 Mac 上管理 App 窗口](https://support.apple.com/zh-cn/guide/mac-help/mchlp2469/mac)
 
